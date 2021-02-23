@@ -1,8 +1,8 @@
 {
-  "custom-field": "This is a value",
+  "custom-field": "This is a new value for custom field 1",
   "custom-object": {
-    "custom-line": "this is a line of text",
-    "custom-text": "this is a paragraph with CR's\n\nyou can leave any data in here you want"
+    "custom-line": "we have a custom line in the custom object",
+    "custom-text": "Massa nisi nisi maximus ex amet quam nisi ipsum metus portaest vel et ac massa enim scelerisque nulla quam morbi elit elit metus placerat purus.\n\nDolor placerat nunc nisi congue leo aliquam erat ex et quisque vel eu scelerisque orci eget elementum quis molestie adipiscing amet scelerisque sit accumsan tincidunt."
   },
   "custom-list": [
     {
@@ -10,6 +10,9 @@
     },
     {
       "custom-list-item": "item 2"
+    },
+    {
+      "custom-list-item": "item 3"
     }
   ]
 }
