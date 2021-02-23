@@ -1,0 +1,15 @@
+{
+  "custom-field": "This is a value",
+  "custom-object": {
+    "custom-line": "this is a line of text",
+    "custom-text": "this is a paragraph with CR's\n\nyou can leave any data in here you want"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "item 1"
+    },
+    {
+      "custom-list-item": "item 2"
+    }
+  ]
+}

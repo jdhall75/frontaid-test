@@ -1,0 +1,23 @@
+{
+  ":name": "Testing nested models",
+  ":description": "This model is in a sub directory so we need to test this",
+  "custom-field": {
+    ":description": "This example text is used as a description.",
+    ":type": "line"
+  },
+  "custom-object": {
+    "custom-line": {
+      ":type": "line"
+    },
+    "custom-text": {
+      ":type": "text"
+    }
+  },
+  "custom-list": {
+    ":items": {
+      "custom-list-item": {
+        ":type": "line"
+      }
+    }
+  }
+}
